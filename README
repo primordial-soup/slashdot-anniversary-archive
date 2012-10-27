@@ -1,0 +1,17 @@
+This was quickly put together for Houston's /. 15th anniversary gathering on
+2012-10-26 <http://slashdot.org/anniversary.pl?view_id=869>.
+
+Funny thing is that I didn't have any of the processing done on the files until I got to the location.
+
+Running:
+
+You need to run `bin/download.pl` first to download the old story index into the
+`archive/` directory. Then run `bin/extract-titles` to create the title list.
+Finally, start the scrolling display by running `bin/display`.
+
+Requires (Debian package names in parentheses):
+- Perl (perl)
+- WWW::Mechanize (libwww-mechanize-perl)
+- DateTime (libdatetime-perl)
+- sed, grep, shuf (sed, grep, coreutils)
+- xscreensaver's fontglide (screensaver-data-extra)
