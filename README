@@ -16,3 +16,9 @@ Requires (Debian package names in parentheses):
 - DateTime (libdatetime-perl)
 - sed, grep, shuf (sed, grep, coreutils)
 - xscreensaver's fontglide (screensaver-data-extra)
+
+
+---
+
+The titles.gz archive is (c) Slashdot and is provided so that you don't start
+hammering their servers. :-)
