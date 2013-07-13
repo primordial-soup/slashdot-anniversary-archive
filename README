@@ -15,7 +15,7 @@ Requires (Debian package names in parentheses):
 - WWW::Mechanize (libwww-mechanize-perl)
 - DateTime (libdatetime-perl)
 - sed, grep, shuf (sed, grep, coreutils)
-- xscreensaver's fontglide (screensaver-data-extra)
+- xscreensaver's fontglide (xscreensaver-data-extra)
 
 
 ---
